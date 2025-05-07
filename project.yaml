@@ -1,5 +1,5 @@
 basic:
-    name: 'Davis LLC'
+    name: 'Eichmann, Leffler and Erdman'
     environments:
         production: 'https://google.com'
         staging: 'https://google.com'
